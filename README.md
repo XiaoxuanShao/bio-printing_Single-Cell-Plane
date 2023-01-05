@@ -1,4 +1,4 @@
-# bio-printing_Cell-Plane
+
 
 单个细胞在薄平板上演化的过程
 
@@ -13,3 +13,14 @@
 κ：梯度能系数 改大之后细胞和平板接触的边界层会变宽 反之亦然 和数学模型有关 物理意义无关
 
 
+The evolution of a single cell on a thin plate
+
+Adjust the parameters→Shrinkage angle caused by surface tension
+
+parameter:
+
+γ: cell elasticity, the larger the γ, the smaller the elasticity, the more rounded the interface contraction, and vice versa, the flatter it is
+
+λ: The cell interface is changed in this model and basically nothing will happen
+
+κ: Gradient energy coefficient. After increasing the size, the boundary layer between the cell and the plate will become wider, and vice versa. It is related to the mathematical model and has nothing to do with the physical meaning
